@@ -8,10 +8,10 @@ import Contact from "../Contact/Contact";
 const Home = () => {
   return (
     <main className="mine">
-      {/* <Landing />
+      <Landing />
       <Features />
       <Testimonials />
-      <Gallery /> */}
+      <Gallery />
       <Contact />
     </main>
   );
